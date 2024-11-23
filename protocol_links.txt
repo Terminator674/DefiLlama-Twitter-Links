@@ -1,3 +1,6 @@
+print hello
+
+
 https://defillama.com/protocol/the-don-finance
 https://defillama.com/protocol/taichi
 https://defillama.com/protocol/summer.fi
